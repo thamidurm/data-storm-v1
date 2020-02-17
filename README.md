@@ -16,4 +16,4 @@ Best submission - CatBoostClassifier (highest f1 score of 0.82450)
 ### Day3
 
 Attempts - 3<br/>
-Best submission - CatBoostClassifier (f1-score of 0.82333)
+Best submission - CatBoostClassifier (f1 score of 0.82333)
