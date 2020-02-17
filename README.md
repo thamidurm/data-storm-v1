@@ -5,7 +5,7 @@ We had to analyse a dataset on the demographical featuers and payment behavior o
 ### Day1
 
 Attempts - 1<br/>
-Submission -
+Submission - XGB classifier
 
 ### Day2
 
