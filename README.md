@@ -4,16 +4,16 @@ We had to analyse a dataset on the demographical featuers and payment behavior o
 
 ### Day1
 
-Attempts -<br/>
+Attempts - 1<br/>
 Submission -
 
 ### Day2
 
-Attempts -<br/>
+Attempts - 3<br/>
 Submission -
 
 
 ### Day3
 
-Attempts -<br/>
+Attempts - 3<br/>
 Submission -
