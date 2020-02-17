@@ -5,15 +5,15 @@ We had to analyse a dataset on the demographical featuers and payment behavior o
 ### Day1
 
 Attempts - 1<br/>
-Submission - XGB classifier
+Submission - XGB classifier (f1 score of 0.82333)
 
 ### Day2
 
 Attempts - 3<br/>
-Submission -
+Submission - CatBoostClassifier (highest f1 score of 0.82450)
 
 
 ### Day3
 
 Attempts - 3<br/>
-Submission -
+Submission - CatBoostClassifier (f1-score of 0.82333)
